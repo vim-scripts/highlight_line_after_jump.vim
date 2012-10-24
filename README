@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4288
+
+Briefly highlights the cursor line whenever the cursor jumps vertically on
+the screen.
+
+Useful if you keep losing where your cursor is when jumping around!
+
+Can use cursorline, or its own implementation.
+
+
